@@ -20,6 +20,6 @@ yarn add prettier stylelint @cyys/stylelint-config-cy --dev
 
 ```json
 {
-  "extends": "@cyys/stylelint-config-vue"
+  "extends": "@cyys/stylelint-config-cy"
 }
 ```

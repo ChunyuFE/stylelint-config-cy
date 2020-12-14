@@ -1,6 +1,6 @@
 {
   "name": "@cyys/stylelint-config-cy",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "stylelint config for cy",
   "main": "index.js",
   "publishConfig": {
