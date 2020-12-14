@@ -5,13 +5,13 @@
 ## Install
 
 ```sh
-npm install prettier stylelint @cyys/stylelint-config-vue --save-dev
+npm install prettier stylelint @cyys/stylelint-config-cy --save-dev
 ```
 
 If using Yarn:
 
 ```sh
-yarn add prettier stylelint @cyys/stylelint-config-vue --dev
+yarn add prettier stylelint @cyys/stylelint-config-cy --dev
 ```
 
 ## Usage
